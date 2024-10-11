@@ -1,0 +1,5 @@
+# Comment
+node_modules/
+.logs
+#những file nào có đuôi là logs hay thư mục nào là node_modules là sẽ không lấy 
+
